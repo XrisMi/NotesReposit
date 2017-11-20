@@ -11,7 +11,7 @@
     <EditText
         android:layout_width="391dp"
         android:layout_height="523dp"
-        android:hint="Type here..."
+        android:hint="@string/type_here"
         android:gravity="top"
         android:id="@+id/EditText1"
         app:layout_constraintTop_toTopOf="parent"/>
