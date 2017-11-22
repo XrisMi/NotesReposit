@@ -19,6 +19,11 @@
 
     <style name="Note" parent="AppTheme" >
         <item name="android:colorForeground">@android:color/darker_gray</item>
+        <item name="android:colorBackground">@color/stickyNote</item>
+        <item name="colorAccent">@color/stickyLine</item>
+        <item name="colorPrimaryDark">@color/darkDarkGrey</item>
+        <item name="colorPrimary">@color/darkOlive</item>
+        <item name="android:textColorPrimary">@android:color/black</item>
     </style>
 
 </resources>
